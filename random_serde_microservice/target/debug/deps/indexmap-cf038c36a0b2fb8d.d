@@ -1,0 +1,13 @@
+/home/mihango/apps/rust/microservices/random_serde_microservice/target/debug/deps/indexmap-cf038c36a0b2fb8d.rmeta: /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/lib.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/macros.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/equivalent.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/mutable_keys.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/util.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/map.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/map/core.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/map/core/raw.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/set.rs
+
+/home/mihango/apps/rust/microservices/random_serde_microservice/target/debug/deps/indexmap-cf038c36a0b2fb8d.d: /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/lib.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/macros.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/equivalent.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/mutable_keys.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/util.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/map.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/map/core.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/map/core/raw.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/set.rs
+
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/lib.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/macros.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/equivalent.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/mutable_keys.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/util.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/map.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/map/core.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/map/core/raw.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.7.0/src/set.rs:

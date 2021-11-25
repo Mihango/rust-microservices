@@ -1,0 +1,12 @@
+/home/mihango/apps/rust/microservices/random_serde_microservice/target/debug/deps/base64-305040e5ef659326.rmeta: /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/home/mihango/apps/rust/microservices/random_serde_microservice/target/debug/deps/base64-305040e5ef659326.d: /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs:

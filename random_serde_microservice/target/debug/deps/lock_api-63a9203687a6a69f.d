@@ -1,0 +1,10 @@
+/home/mihango/apps/rust/microservices/random_serde_microservice/target/debug/deps/lock_api-63a9203687a6a69f.rmeta: /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/lib.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/mutex.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/remutex.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/rwlock.rs
+
+/home/mihango/apps/rust/microservices/random_serde_microservice/target/debug/deps/liblock_api-63a9203687a6a69f.rlib: /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/lib.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/mutex.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/remutex.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/rwlock.rs
+
+/home/mihango/apps/rust/microservices/random_serde_microservice/target/debug/deps/lock_api-63a9203687a6a69f.d: /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/lib.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/mutex.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/remutex.rs /home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/rwlock.rs
+
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/lib.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/mutex.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/remutex.rs:
+/home/mihango/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.3.4/src/rwlock.rs:

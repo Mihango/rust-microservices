@@ -7,6 +7,12 @@ edition = "2021"
 
 [dependencies]
 log = "0.4"
-pretty_env_logger = "0.2"
+# pretty_env_logger = "0.2"
+dotenv = "0.15.0"
+env_logger = "0.9.0"
 hyper = "0.12"
 rand = "0.5"
+clap = { git = "https://github.com/clap-rs/clap/" }
+toml = "0.5.8"
+serde = "1.0.130"
+serde_derive = "1.0.130"
