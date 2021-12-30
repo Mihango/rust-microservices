@@ -9,22 +9,20 @@ extern crate base64_serde;
 
 mod color;
 
-use std::ops::Range;
-use std::cmp::{max, min};
-use futures::{future, Future, Stream};
-use hyper::{Body, Error, Method, Request, Response, Server, StatusCode};
-use hyper::service::service_fn;
-use rand::Rng;
-use rand::distributions::{Bernoulli, Normal, Uniform};
 use base64::STANDARD;
 use color::Color;
+use futures::{future, Future, Stream};
+use hyper::service::service_fn;
+use hyper::{Body, Error, Method, Request, Response, Server, StatusCode};
+use rand::distributions::{Bernoulli, Normal, Uniform};
+use rand::Rng;
+use std::cmp::{max, min};
+use std::ops::Range;
 
 fn main() {
     let add = ([127, 0, 0, 1], 8000).into();
     let builder = Server::bind(&add);
-    let server = builder.serve(|| {
-        service_fn(microservice_handler)
-    });
+    let server = builder.serve(|| service_fn(microservice_handler));
     let server = server.map_err(drop);
     hyper::rt::run(server);
 }
